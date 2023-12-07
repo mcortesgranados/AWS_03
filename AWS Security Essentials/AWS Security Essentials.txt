@@ -1,0 +1,101 @@
+CHAPTER 01 1. Introduction
+01-01 About the Author
+
+01-02 Course Tools
+
+01-03 AWS Free Tier Usage Tracking and Billing Widget
+
+CHAPTER 02 2. Secure Global Infrastructure and Compliance
+02-01 Regions, Availability Zones, and Endpoints
+
+02-02 VPC Endpoints
+
+02-03 IAM and Compliance
+
+CHAPTER 03 3. Shared Responsibility and Trusted Advisor
+03-01 Shared Responsibility Model
+
+03-02 Trusted Advisor
+
+CHAPTER 04 4. Identity and Access Management (IAM)
+04-01 Root User
+
+04-02 Users and Groups
+
+04-03 Roles
+
+04-04 Policies
+
+04-05 Visual Editor for Policy Creation
+
+04-06 Access Advisor
+
+CHAPTER 05 5. Encryption Essentials
+05-01 Symmetric and Asymmetric Encryption
+
+05-02 HSM and KMS
+
+05-03 HANDS-ON LAB AWS Security Essentials - KMS Integration with S3
+
+CHAPTER 06 6. OS-Level Access
+06-01 Overview and SSH
+
+06-02 Bastion Host
+
+06-03 Linux Example
+
+06-04 Windows Remote Desktop Example
+
+06-05 Windows Bash Example
+
+06-06 Windows PuTTY Example
+
+06-07 HANDS-ON LAB AWS Security Essentials - Securing Connections with a Bastion Host
+
+CHAPTER 07 7. Data Security
+07-01 Securing Data at Rest S3 and Glacier
+
+07-02 Securing Data at Rest EBS and RDS
+
+07-03 Securing Data at Rest DynamoDB and EMR
+
+07-04 Decommissioning Data and Media
+
+07-05 Securing Data in Transit
+
+CHAPTER 08 8. OS Security
+08-01 Custom AMIs and Bootstrapping
+
+08-02 AWS Systems Manager- Patching/Automation
+
+08-03 Mitigating Malware and Abuse
+
+08-04 HANDS-ON LAB Preparing an Instance for a Custom AMI
+
+CHAPTER 09 9. Infrastructure Security
+09-01 VPC Security
+
+09-02 Network Segmentation
+
+09-03 Strengthening and Threat Protection Layer
+
+09-04 Testing and Measurement
+
+09-05 AWS Web Application Firewall and Shield
+
+09-06 HANDS-ON LAB AWS Security Essentials - Network Segmentation Lab
+
+CHAPTER 10 10. Monitoring, Alerting , and Auditing
+10-01 Monitoring Basics
+
+10-02 AWS Config
+
+10-03 AWS Systems Manager- Inventory and Insights
+
+10-04 AWS Inspector
+
+10-05 AWS GuardDuty
+
+CHAPTER 11 Conclusion
+11-01 Thank You and Next Steps
+
